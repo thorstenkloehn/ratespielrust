@@ -11,8 +11,8 @@ Dieses Projekt ist ein einfaches Ratespiel, bei dem der Benutzer eine Zufallszah
 1. Klonen Sie das Repository:
 
     ```sh
-    git clone https://github.com/IhrBenutzername/zufallszahl-ratespiel.git
-    cd zufallszahl-ratespiel
+    git clone https://github.com/thorstenkloehn/ratespielrust.git
+    cd ratespielrust
     ```
 
 2. Bauen Sie das Projekt:
